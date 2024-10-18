@@ -1,0 +1,6 @@
+flask
+flask-caching
+azure-search-documents
+openai
+python-dotenv
+pyodbc
